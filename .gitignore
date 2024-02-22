@@ -6,3 +6,5 @@
 *.props
 *.txt
 *.editorconfig
+*.exe
+*.AssemblyInfo.cs
